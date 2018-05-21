@@ -5,6 +5,8 @@
     background-color: rgba(165, 179, 175, 0.993);
     margin: auto;
     
+
+    
 }
 #Title{
     font-family: fantasy;
@@ -12,6 +14,19 @@
     text-align: center;
     
     
+}
+#MPH{
+
+    margin-top: 30px;
+
+}
+#Volvo{
+    margin-top: 30px;
+
+}
+
+#TotalScore{
+    margin-top: 150px;
 }
 
     

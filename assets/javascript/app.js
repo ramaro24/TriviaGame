@@ -6,3 +6,14 @@
 ///5.create if/true or false statements for all the questions
 //6.create a total score window that appers when game is document
 //7.find out how to reload game after being document
+
+var Totalscore;
+
+
+
+
+
+
+
+
+
